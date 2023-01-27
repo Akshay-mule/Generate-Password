@@ -1,1 +1,1 @@
-# Generate-Password
+This project create using HTML,CSS and JavaScript.Using this project you can generate a strong password, while generating password you can also make password very strong bt selecting the length of password, by checking other options as mentioned in the Image, like checking includeing small alphabets, capital alphabets,includeing numbers, includeing special characters. After taking all actions you can see your string password which you can copy from the input box.You can see the demo by clicking on below up-right-from-square symbol:
